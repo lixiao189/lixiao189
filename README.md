@@ -1,7 +1,11 @@
 # 💫About Me :
+
 🥳 I'm an cyber security learner
+
 🤤 Love watching Japanese anime
+
 💻 A vim / neovim user
+
 😱 Hard learning
 
 # 💻Tech Stack
