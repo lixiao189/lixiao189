@@ -1,6 +1,6 @@
 ## 💫 About Me :
 
-🥳 I'm an cyber security learner
+🥳 I'm a cyber security learner
 
 🤤 Love watching Japanese anime
 
